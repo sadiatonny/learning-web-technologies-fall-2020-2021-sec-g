@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,7 +21,7 @@
                     EmployerName :
                 </td>
                 <td>
-                    <input type="text" name="username" id="">
+                    <input type="text" name="employeename" id="">
                 </td>
             </tr>
 			 <tr>
@@ -28,7 +29,7 @@
                     CompanyName :
                 </td>
                 <td>
-                    <input type="text" name="username" id="">
+                    <input type="text" name="companyname" id="">
                 </td>
             </tr>
 			
@@ -37,7 +38,7 @@
                     ContactNo :
                 </td>
                 <td>
-                    <input type="number" name="username" id="">
+                    <input type="number" name="contact" id="">
                 </td>
             </tr>
 			
